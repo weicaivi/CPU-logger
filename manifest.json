@@ -1,9 +1,0 @@
-{
-  "name": "CPU Logger",
-  "version": "1.0",
-  "manifest_version": 2,
-  "permissions": ["system.cpu"],
-  "background": {
-    "scripts": ["background.js"]
-  }
-}
