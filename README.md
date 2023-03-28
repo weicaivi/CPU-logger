@@ -2,7 +2,7 @@
 
 How to run the logger:
 
-  download the file.
+  download the `manifest.json` and 'background.js' into the same folder.
   
   Open Google Chrome and navigate to chrome://extensions.
   
